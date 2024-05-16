@@ -1,0 +1,67 @@
+{
+    "appetizers": [
+        {
+            "name": "avocado dip",
+            "ingredients": ["avocado", "cream paste"],
+            "description": "It's avocado dip"
+        },
+
+        {
+            "name": "deviled eggs",
+            "ingredients": ["eggs", "cream cheese", "pepper"],
+            "description": "It's deviled eggs"
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "bologna sandwich",
+            "ingredients": ["bologna", "bread"],
+            "description": "It's a bologna sandwich"
+        },
+
+        {
+            "name": "tomato sandwich",
+            "ingredients": ["tomatoes", "bread"],
+            "description": "It's a tomato sandwich"
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "grilled cheese sandwich",
+            "ingredients": ["cheese", "bread"],
+            "description": "It's a grilled cheese sandwich"
+        },
+
+        {
+            "name": "hot ham sandwich",
+            "ingredients": ["ham", "bread"],
+            "description": "It's a ham sandwich"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "chocolate chip cookies",
+            "ingredients": ["chocolate", "dough"],
+            "description": "It's chocolate chip cookies"
+        },
+
+        {
+            "name": "chocolate cake",
+            "ingredients": ["chocolate frosting", "cake mix"],
+            "description": "It's chocolate cake"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "pepsi",
+            "ingredients": ["sugar", "corn syrup"],
+            "description": "It's a type of soda"
+        },
+
+        {
+            "name": "water",
+            "ingredients": ["h20", "minerals"],
+            "description": "It's water"
+        }
+    ]
+}
